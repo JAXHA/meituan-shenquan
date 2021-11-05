@@ -1,7 +1,6 @@
 #修改时注意不要破坏空格缩进,yaml不支持Tab键缩进，请使用同等长度空格缩进
 name: mtshenquan
 on:
-  repository_dispatch:
   watch:
     types: started
   schedule:
